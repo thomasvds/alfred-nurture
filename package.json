@@ -1,6 +1,7 @@
 {
   "name": "alfred-nurture",
-  "version": "1.0.0",
+  "repository": "https://github.com/thomasvds/alfred-nurture",
+  "version": "1.0.1",
   "description": "Tiny CRM for introverts",
   "main": "index.js",
   "author": {
