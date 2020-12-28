@@ -1,0 +1,19 @@
+{
+  "name": "alfred-nurture",
+  "version": "1.0.0",
+  "description": "Tiny CRM for introverts",
+  "main": "index.js",
+  "author": {
+		"name": "Thomas Vanderstraeten",
+		"email": "vanderstraeten.thomas@gmail.com",
+		"url": "https://thomasvds.com"
+	},
+	"scripts": {
+		"postinstall": "alfy-init",
+		"preuninstall": "alfy-cleanup"
+	},
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.10.0"
+  }
+}
